@@ -6,7 +6,7 @@ def main(page: ft.Page):
     page.window_height = 700
 
     webview = ft.WebView(
-        url="https://example.com",  # Change this to your website
+        url="https://sms.ebinayah.com/",  # Change this to your website
         expand=True
     )
 
